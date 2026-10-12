@@ -7,6 +7,8 @@
     <outline text="AMERICA" title="AMERICA">
       <outline type="rss" text="Reuters World" xmlUrl="https://www.reutersagency.com/feed/" />
       <outline type="rss" text="Associated Press (AP)" xmlUrl="https://rsshub.app/apnews/topics/ap-top-news" />
+      <outline type="rss" text="The New York Times" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" />
+      <outline type="rss" text="The Washington Post" xmlUrl="https://feeds.washingtonpost.com/rss/world" />
       <outline type="rss" text="NPR World" xmlUrl="https://feeds.npr.org/1004/rss.xml" />
     </outline>
     <outline text="EUROPA" title="EUROPA">
