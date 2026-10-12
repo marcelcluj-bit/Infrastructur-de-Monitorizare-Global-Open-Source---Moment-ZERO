@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>MOMENT ZERO - Fluxuri Globale</title>
+  </head>
+  <body>
+    <outline text="GLOBAL" title="GLOBAL">
+      <outline type="rss" text="Reuters World" xmlUrl="https://www.reutersagency.com/feed/" />
+      <outline type="rss" text="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
+      <outline type="rss" text="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
+      <outline type="rss" text="DW News" xmlUrl="https://rss.dw.com/rdf/rss-en-all" />
+    </outline>
+  </body>
+</opml>
