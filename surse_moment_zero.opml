@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>MOMENT ZERO - Fluxuri Globale</title>
+    <title>MOMENT ZERO - Fluxuri Globale Extinse</title>
   </head>
   <body>
-    <outline text="GLOBAL" title="GLOBAL">
+    <outline text="AMERICA" title="AMERICA">
       <outline type="rss" text="Reuters World" xmlUrl="https://www.reutersagency.com/feed/" />
-      <outline type="rss" text="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
+      <outline type="rss" text="Associated Press (AP)" xmlUrl="https://rsshub.app/apnews/topics/ap-top-news" />
+      <outline type="rss" text="NPR World" xmlUrl="https://feeds.npr.org/1004/rss.xml" />
+    </outline>
+    <outline text="EUROPA" title="EUROPA">
+      <outline type="rss" text="BBC News (UK)" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
+      <outline type="rss" text="DW News (Germania)" xmlUrl="https://rss.dw.com/rdf/rss-en-all" />
+      <outline type="rss" text="France 24 (Franța)" xmlUrl="https://www.france24.com/en/rss" />
+    </outline>
+    <outline text="ASIA - ORIENTUL MIJLOCIU & CHINA" title="ASIA">
       <outline type="rss" text="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
-      <outline type="rss" text="DW News" xmlUrl="https://rss.dw.com/rdf/rss-en-all" />
+      <outline type="rss" text="Xinhua Net (China)" xmlUrl="http://www.xinhuanet.com/english/rss/worldrss.xml" />
+      <outline type="rss" text="NHK World (Japonia)" xmlUrl="https://www3.nhk.or.jp/nhkworld/en/news/rss.xml" />
+    </outline>
+    <outline text="AUSTRALIA ȘI OCEANIA" title="AUSTRALIA">
+      <outline type="rss" text="ABC News (Australia)" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml" />
     </outline>
   </body>
 </opml>
