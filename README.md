@@ -18,3 +18,9 @@ Implementarea, operarea și configurarea acestei infrastructuri pe domenii sau s
 4. Neutralitate și Conformitate Legală
 
 Utilizatorii acestui cod open-source au obligația de a respecta legislația în vigoare din jurisdicțiile în care operează, drepturile de autor ale surselor prelucrate și normele privind protecția datelor. Proiectul promovează accesul la informație primară în regim de transparență, dar nu garantează imunitatea juridică a operatorilor finali în fața reglementărilor locale sau internaționale.
+
+
+
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj)
