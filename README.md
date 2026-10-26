@@ -24,3 +24,6 @@ Utilizatorii acestui cod open-source au obligația de a respecta legislația în
 
 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj)
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
